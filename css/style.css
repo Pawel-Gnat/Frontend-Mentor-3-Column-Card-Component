@@ -68,10 +68,9 @@ button {
 	border: 1px solid;
 }
 p {
-	min-height: 115px;
+	height: 115px;
 	color: hsla(0, 0%, 100%, 0.75);
 	line-height: 1.5em;
-	
 }
 p span {
 	text-transform: uppercase;
