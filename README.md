@@ -20,7 +20,7 @@ This is a solution to the [3-column preview card component challenge on Frontend
 
 ### Links
 
-- Live Site URL: [3 Column Card Component](https://pawel-gnat.github.io/3-Column-Card-Component/)
+- Live Site URL: [3 Column Card Component](https://pawel-gnat.github.io/Frontend-Mentor-3-Column-Card-Component/)
 
 ## My process
 
@@ -35,7 +35,7 @@ I managed to complete this challenge in 2 hours.
 
 ### What I learned
 
-Well, I found it quite easy. I hope my code is at least not that bad and easy to read. 
+Well, I found it quite easy. I hope my code is at least not that bad and easy to read.
 
 ## Author
 
